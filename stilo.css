@@ -1,0 +1,25 @@
+article{
+    border: 1px solid;
+    width: 180px;
+    height: 90px;   
+}
+
+.meio{
+   margin: auto;
+}
+
+.nordeste{
+    margin-left: 65%;
+}
+.leste{
+    margin-left: 85%;
+}
+
+.noroeste{
+    margin-left: 22%;
+    margin-top: -27%;
+}
+
+.sudoeste{
+    margin-left: 22%
+}
